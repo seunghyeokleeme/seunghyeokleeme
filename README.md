@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**seunghyeokleeme/seunghyeokleeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seunghyeok_Lee&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyeokleeme&count_bg=%23F3EF09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  <h3> Hi, I'm Seunghyeok Lee! </h3>
+</div>
+
+---
+
+<h3>My GitHub Stats</h3>
+
+![githubBanner](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true)
+
+<h3> Github Challenge</h3>
+  
+![github-trophy](https://github-profile-trophy.vercel.app/?username=seunghyeokleeme&theme=darkhub)
