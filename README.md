@@ -22,6 +22,7 @@
 <h3>My GitHub Stats</h3>
 
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact">
 
 <h3> Github Challenge</h3>
   
