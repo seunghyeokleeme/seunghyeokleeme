@@ -19,6 +19,11 @@
   </p>
  
 
+<h3>My Interviews</h3>
+
+<a href="https://nomadcoders.co/community/thread/7151"> nomadcoders (Devinan)
+</a>
+
 <h3>My GitHub Stats</h3>
 
 <a href="https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true">
