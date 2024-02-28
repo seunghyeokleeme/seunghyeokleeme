@@ -14,7 +14,7 @@
   <h3 align='center'>My stacks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,ts,rust,express,graphql,nestjs,mongodb,mysql" />
+     <img src="https://skillicons.dev/icons?i=cpp,nodejs" />
     </a>
   </p>
  
