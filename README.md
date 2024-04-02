@@ -41,7 +41,3 @@
 <h3>Github Challenge</h3>
   
 ![github-trophy](https://github-profile-trophy.vercel.app/?username=seunghyeokleeme&theme=darkhub)
-
-<h3>WakaTime</h3>
-
-![seunghyeokleeme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seunghyeokleeme&layout=compact)
