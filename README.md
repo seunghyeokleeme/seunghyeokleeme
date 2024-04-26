@@ -40,4 +40,4 @@
 
 <h3>Github Challenge</h3>
   
-![github-trophy](https://github-profile-trophy.vercel.app/?username=seunghyeokleeme&theme=darkhub)
+![github-trophy](https://github-profile-trophy.vercel.app?username=seunghyeokleeme&theme=darkhub)
