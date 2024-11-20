@@ -32,7 +32,12 @@
 
 ## 🌟 Community Activities
 
-### **Nomad Coders**  
+### **Interview**
+- 조회수 100K views | <a href="https://nomadcoders.co/community/thread/7151"> We reveal everything about how to create a roadmap for getting a job as a developer.(Kr)</a>
+
+---
+
+### **Nomad Coders**
 #### 🧑‍🏫 Teaching Assistant (Freelance)  
 **Web Development 10-Week Study TA**  
 - **Jan 2023 – Mar 2023 (3 months)**  
