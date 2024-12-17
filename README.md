@@ -44,7 +44,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact&hide=jupyter%20notebook,html,css,pug,scss">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact&hide=jupyter%20notebook,html,css,pug,scss,javascript">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact&hide=jupyter%20notebook,html,css,pug,scss,javascript" />
 </a>
 
