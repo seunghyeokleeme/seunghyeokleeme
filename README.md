@@ -40,13 +40,8 @@
 
 ## 🚀 My GitHub Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&show_icons=true" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact&hide=jupyter%20notebook,html,css,pug,scss,javascript">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=compact&hide=jupyter%20notebook,html,css,pug,scss,javascript" />
-</a>
+![Seunghyeok Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=donut-vertical&theme=onedark&langs_count=20&hide=jupyter%20notebook,html,css,pug,scss,cmake,javascript)
 
 ---
 
