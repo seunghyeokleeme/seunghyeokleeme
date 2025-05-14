@@ -40,8 +40,6 @@
 
 ![Seunghyeokleeme's Stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&theme=highcontrast&show_icons=true)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=seunghyeokleeme&starting_year=2009" alt="GitHub Streak" /></a>
-
 ---
 
 ## 💪 I'm currently Top Languages
