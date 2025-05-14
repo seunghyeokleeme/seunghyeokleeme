@@ -38,7 +38,7 @@
 
 ## 🚀 My GitHub Stats
 
-![Seunghyeok Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&count_private=true&show_icons=true&theme=onedark)
+![Seunghyeokleeme's Stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&theme=highcontrast&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeokleeme&layout=donut-vertical&theme=onedark&langs_count=20&hide=jupyter%20notebook,html,css,pug,scss,cmake,javascript)
 
 ---
