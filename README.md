@@ -38,7 +38,7 @@
 
 ## 🚀 My GitHub Stats
 
-![Seunghyeokleeme's Stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&theme=highcontrast&show_icons=true)
+![Seunghyeokleeme's Stats](https://github-readme-stats.vercel.app/api?username=seunghyeokleeme&theme=highcontrast&show_icons=true&include_all_commits=true)
 
 ---
 
