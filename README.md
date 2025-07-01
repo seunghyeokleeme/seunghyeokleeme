@@ -23,6 +23,10 @@
   **Issued by**: Dong-A University Software Innovation Center  
   **Project**: Deep Learning-Based Building Damage Assessment and Recovery Cost Estimation  
 
+- 🏆 **2024 FairDay (Graduation Project Exhibition): Excellence Award, Overall 3rd Place**  
+  **Issued by**: Dong-A University Software Innovation Center  
+  **Project**: Deep Learning-Based Building Damage Assessment and Recovery Cost Estimation  
+
 - 🥇 **2024 First National University Software Achievement Sharing Forum: Innovation Award**  
   **Project**: Disaster Management System Using Satellite Image Segmentation  
 
@@ -33,6 +37,29 @@
 - **Deep Learning & Computer Vision**: Satellite image analysis, semantic segmentation  
 - **Backend Development**: Backend development with frameworks like Nest(Node.js)
 - **Mentorship & Education**: Passionate about sharing knowledge and helping aspiring developers succeed  
+
+---
+
+## 🎙️ Interview
+
+### Interview: How to Create a Roadmap for Developer Job Hunting (106K+ views)
+**Published by Nomadcoders**
+
+---
+
+## 🔥 Community
+
+### Web Development Bootcamp Teaching Assistant(TA) (Nomadcoders)
+**September 2022 – March 2023**
+
+* Contributed to the growth of **600 web development students** by providing guidance on career paths and delivering weekly online lessons.
+* Played a key role in organizing and running **offline community events every five weeks**.
+* Offered valuable insights through **code reviews** on student projects, aiding their development process.
+
+### Monthly Developer Meetup Leader (Nomadcoders)
+**September 2022 – October 2022**
+
+* Spearheaded monthly gatherings, creating a platform for **developer collaboration and networking**.
 
 ---
 
