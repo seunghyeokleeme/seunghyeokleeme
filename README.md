@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Leo_Lee&fontSize=70&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seunghyeok_Lee&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-<h3> Hi, I'm Leo Lee(Seunghyeok Lee)! </h3>
+<h3> Hi, I'm Seunghyeok Lee! </h3>
 </div>
 
 ---
