@@ -23,10 +23,6 @@
   **Issued by**: Dong-A University Software Innovation Center  
   **Project**: Deep Learning-Based Building Damage Assessment and Recovery Cost Estimation  
 
-- 🏆 **2024 FairDay (Graduation Project Exhibition): Excellence Award, Overall 3rd Place**  
-  **Issued by**: Dong-A University Software Innovation Center  
-  **Project**: Deep Learning-Based Building Damage Assessment and Recovery Cost Estimation  
-
 - 🥇 **2024 First National University Software Achievement Sharing Forum: Innovation Award**  
   **Project**: Disaster Management System Using Satellite Image Segmentation  
 
