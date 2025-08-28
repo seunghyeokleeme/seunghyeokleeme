@@ -71,12 +71,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-![github-trophy](https://github-profile-trophy.vercel.app?username=seunghyeokleeme&theme=darkhub)
-
----
-
 ### 📫 Contact Me  
 
 - **Email**: [seunghyeok.tech@gmail.com](mailto:seunghyeok.tech@gmail.com)
