@@ -17,7 +17,11 @@
 
 ---
 
-## 🏆 2024 Achievements
+## 🏆 Recent Achievements
+
+- 📖 **Paper: Deep Learning-Based Detection and Assessment of Road Damage Caused by Disaster with Satellite Imagery**   
+  **Code**: [xBD_road_damage_assessment](https://github.com/seunghyeokleeme/xBD_road_damage_assessment)    
+  **Published**: Appl. Sci. 8 July 2025, [doi.org/10.3390/app15147669](https://doi.org/10.3390/app15147669)    
 
 - 🏆 **2024 FairDay (Graduation Project Exhibition): Excellence Award, Overall 3rd Place**  
   **Issued by**: Dong-A University Software Innovation Center  
