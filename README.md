@@ -5,6 +5,20 @@
 <h3> Hi, I'm Seunghyeok Lee! </h3>
 </div>
 
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Conscription_in_South_Korea">
+    <img src="https://img.shields.io/badge/Status-On%20Military%20Service-blue?style=flat-square" alt="Status: On Military Service"/>
+  </a>
+</div>
+
+> ### 🪖 Notice: Currently on Mandatory Military Service
+>
+> Hello! I am currently serving in the **Republic of Korea Armed Forces** for my mandatory military service.
+>
+> During this period (Approx. 2025.10 ~ 2027.04), I will have very limited or no access to GitHub. Please expect significant delays in responses to issues, PRs, and emails.
+>
+> Thank you for your patience and understanding.
+
 ---
 
 <p align='center'>
